@@ -1,0 +1,3 @@
+need to go to the youtube developer console and generate an api key to use it in the script
+need to obtain a spotify api key and secret by login to the spotify developers console and creating an app. In the settings you'll find the key and secret. Store that in an environment variable, don't write it in plain text. 
+$export SECRET_API_KEY="actual_api_key"
